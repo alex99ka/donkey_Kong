@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "donkey_Kong.sln",
+    "projects": [
+      "donkey_Kong.vcxproj"
+    ]
+  }
+}
