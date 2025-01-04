@@ -132,9 +132,11 @@
     <ClInclude Include="..\..\..\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Desktop\BSc\second year\c++\DonkeyKong\Item\Game.h" />
     <ClInclude Include="..\..\..\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Desktop\BSc\second year\c++\DonkeyKong\Item\Item.h" />
     <ClInclude Include="..\..\..\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\Desktop\BSc\second year\c++\DonkeyKong\Item\Utils.h" />
+    <ClInclude Include="File.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Board.cpp" />
+    <ClCompile Include="File.cpp" />
     <ClCompile Include="Game.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Utils.cpp" />
