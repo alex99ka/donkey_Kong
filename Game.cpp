@@ -4,7 +4,6 @@
 #include<iostream>
 #include <algorithm>
 #include <conio.h> // For _kbhit() and _getch and go to 
-#include "game.h"
 #include "ColorPoint.h"
 #include "utils.h"
 
